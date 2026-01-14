@@ -1,0 +1,111 @@
+﻿{
+    "job_id":  "cbae2a29-50ce-4cec-bedf-43e7f2df942d",
+    "status":  "done",
+    "result":  {
+                   "pages":  [
+                                 {
+                                     "document_type":  "ÑÑÐµÑ Ð½Ð° Ð¾Ð¿Ð»Ð°ÑÑ",
+                                     "iin_bin":  "081140001682",
+                                     "company_name":  "Ð¢ÐÐ VENDER",
+                                     "document_number":  "522365",
+                                     "document_date":  "11 Ð¼Ð°Ñ 2023",
+                                     "subtotal":  "184 472",
+                                     "vat":  "19 765",
+                                     "total":  "184 472",
+                                     "items":  [
+                                                   {
+                                                       "name":  "ÐÐµÑÐµÐºÐ»ÑÑÐ°ÑÐµÐ»Ñ, ANDELI, XB2-BD25, 2-Ð¿Ð¾Ð·Ð¸ÑÐ¸Ð¾Ð½Ð½ÑÐ¹",
+                                                       "sku":  "14589",
+                                                       "quantity":  "40",
+                                                       "unit":  "ÑÑ",
+                                                       "price":  "518",
+                                                       "total":  "20720.00"
+                                                   },
+                                                   {
+                                                       "name":  "ÐÐ°ÑÑÑÐ¸Ð´Ð¶, Europrint, EPC-CE285A, ÐÐ»Ñ Ð¿ÑÐ¸Ð½ÑÐµÑÐ¾Ð² HP LaserJet P1102/M1132/M1212, 1600 ÑÑÑÐ°Ð½Ð¸Ñ.",
+                                                       "sku":  "3716",
+                                                       "quantity":  "1",
+                                                       "unit":  "ÑÑ",
+                                                       "price":  "2 648",
+                                                       "total":  "2648.00"
+                                                   },
+                                                   {
+                                                       "name":  "ÐÑÑÐ¾ÑÐ½Ð¸Ðº Ð±ÐµÑÐ¿ÐµÑÐµÐ±Ð¾Ð¹Ð½Ð¾Ð³Ð¾ Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ, SVC, V-800-L, ÐÐ¾ÑÐ½Ð¾ÑÑÑ 800ÐÐ/480ÐÑ, ÐÐ¸Ð°Ð¿Ð°Ð·Ð¾Ð½ ÑÐ°Ð±Ð¾ÑÑ AVR: 165-275Ð, AVR Ð² ÑÐµÐ¶Ð¸Ð¼Ðµ Booster: 138-292Ð, ÐÐ°Ñ.: 12Ð/9 ÐÑ*1ÑÑ., 3 Ð²ÑÑ\u0085.: 2 Shuko CEE7+1 IEC C13 (Bypass), Ð§ÑÑÐ½ÑÐ¹",
+                                                       "sku":  "14466",
+                                                       "quantity":  "1",
+                                                       "unit":  "ÑÑ",
+                                                       "price":  "21 100",
+                                                       "total":  "21100.00"
+                                                   },
+                                                   {
+                                                       "name":  "ÐÐ²ÑÐ¾Ð¼Ð°ÑÐ¸ÑÐµÑÐºÐ¸Ð¹ Ð²ÑÐºÐ»ÑÑÐ°ÑÐµÐ»Ñ, ANDELI, AM1-400L 3P 400A",
+                                                       "sku":  "42883",
+                                                       "quantity":  "2",
+                                                       "unit":  "ÑÑ",
+                                                       "price":  "26 306",
+                                                       "total":  "52612.00"
+                                                   },
+                                                   {
+                                                       "name":  "Ð Ð¾Ð·ÐµÑÐºÐ° Ð½Ð° Ð´Ð¸Ð½-ÑÐµÐ¹ÐºÑ, ANDELI, ADC-5",
+                                                       "sku":  "15593",
+                                                       "quantity":  "20",
+                                                       "unit":  "ÑÑ",
+                                                       "price":  "612",
+                                                       "total":  "12240.00"
+                                                   },
+                                                   {
+                                                       "name":  "ÐÑÐ¾ÑÐµÑÑÐ¾Ñ, Intel, i5-12400 LGA1700, Ð¾ÐµÐ¼, 18M, 2.50 GHz, 6/12 Core Alder Lake, 65 (117) ÐÑ, UHD730",
+                                                       "sku":  "41463",
+                                                       "quantity":  "1",
+                                                       "unit":  "ÑÑ",
+                                                       "price":  "75 152",
+                                                       "total":  "75152.00"
+                                                   }
+                                               ],
+                                     "error":  null,
+                                     "page_number":  1,
+                                     "total_pages_processed":  1,
+                                     "supplier":  {
+                                                      "name":  "Ð¢ÐÐ VENDER",
+                                                      "bin_iin":  "081140001682",
+                                                      "address":  "ÐÐ»Ð¼Ð°ÑÑ, ÐÑÑÑÑÐ»ÑÐ°Ð½Ð° ÐÐ°Ð·Ð°ÑÐ±Ð°ÐµÐ²Ð° 19",
+                                                      "phone":  "+7 727 300 0 300"
+                                                  },
+                                     "buyer":  {
+                                                   "name":  "Ð¢ÐÐ Michael",
+                                                   "bin_iin":  "170940023817",
+                                                   "address":  "",
+                                                   "phone":  ""
+                                               },
+                                     "payment":  {
+                                                     "beneficiary_bank_name":  "ÐÐ \"ÐÐ°Ð½Ðº Ð¦ÐµÐ½ÑÑÐÑÐµÐ´Ð¸Ñ\"",
+                                                     "beneficiary_bank_bik":  "KCJBKZKX",
+                                                     "beneficiary_account_iban":  "KZ568562203117839999",
+                                                     "beneficiary_bin_iin":  "null",
+                                                     "kbe":  "17",
+                                                     "knp":  "710",
+                                                     "payment_code":  "",
+                                                     "payment_purpose":  ""
+                                                 },
+                                     "barcodes":  [
+                                                      "https://b2bportal.al-style.kz/assembly?data=%7b%22id%22%3A%2200000522365%22%2C%22date%22%3A%2211%2E05%2E2023%22%2C%22sum%22%3A184472%2C%22company%5Fid%22%3A%22170940023817%22%2C%22GUID%22%3A%22c7c9c4b4%2Defb7%2D11ed%2Da81f%2D002590a8d631%22%7d",
+                                                      "https://r.alstyle.kz/book",
+                                                      "https://r.alstyle.kz/banner5"
+                                                  ]
+                                 }
+                             ],
+                   "total_pages":  1
+               },
+    "stats":  {
+                  "cache_hit":  1,
+                  "cache_miss":  0,
+                  "openai_requests":  0,
+                  "elapsed_ms":  23
+              },
+    "billing":  {
+                    "tokens_in":  0,
+                    "tokens_out":  0,
+                    "cost_usd":  0.0
+                },
+    "error":  null
+}
